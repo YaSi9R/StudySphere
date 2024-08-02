@@ -1,4 +1,4 @@
-                                                       <h1>StudySphere: Shaping the Future of Education: </h1>
+<h1>StudySphere: Shaping the Future of Education: </h1>
 Welcome to StudySphere, the cutting-edge edtech platform that’s transforming the educational landscape! Powered by the MERN stack, StudySphere offers an immersive and interactive learning experience tailored to meet the needs of modern learners and educators.
 
 ✨ What is StudySphere? StudySphere is more than just a platform—it's a digital revolution in education. Designed to foster collaboration, enhance learning, and streamline educational processes, StudySphere connects students and educators through a seamless and intuitive interface.
