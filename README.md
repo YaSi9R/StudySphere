@@ -20,7 +20,7 @@ Ready to dive in? Follow these steps to get StudySphere up and running on your l
 1. Clone the Repository
 ->git clone https://github.com/yourusername/studysphere.git
 
-2. Navigate to Project Directory
+2. Navigate to Project Directory/n
 ->cd studysphere
 
 3. Install Dependencies i.e.nodemodules
