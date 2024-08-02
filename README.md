@@ -17,30 +17,30 @@ Built with the following technologies to ensure a robust and scalable solution:
 <h2>📥 Getting Started</h2>
 Ready to dive in? Follow these steps to get StudySphere up and running on your local machine:
 
-1. Clone the Repository
+1. Clone the Repository<br/>
 ->git clone https://github.com/yourusername/studysphere.git
 
 2. Navigate to Project Directory<br/>
 ->cd studysphere
 
-3. Install Dependencies i.e.nodemodules
-For the server:
-->cd StudySphere
-->cd backend
+3. Install Dependencies i.e.nodemodules<br/>
+For the server:<br/>
+->cd StudySphere<br/>
+->cd backend<br/>
 ->npm install
 
-For the Client:
-->cd StudySphere
+For the Client:<br/>
+->cd StudySphere<br/>
 ->npm install
 
-4. Start the Application
-Run the server:
-->cd StudySphere
-->cd backend
+4. Start the Application<br/>
+Run the server:<br/>
+->cd StudySphere<br/>
+->cd backend<br/>
 ->npm start
 
-Run the client:
-->cd StudySphere
+Run the client:<br/>
+->cd StudySphere<br/>
 ->npm start
 
 
