@@ -109,8 +109,10 @@ exports.updateDisplayPicture = async (req, res) => {
         data: updatedProfile,
       })
     } catch (error) {
+		console.log("Error in uploading image");
       return res.status(500).json({
         success: false,
+		
         message: error.message,
       })
     }

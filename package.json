@@ -1,6 +1,6 @@
 {
-  "name": "studyNest-client",
-  "description": "This is the client side of the StudyNotion App",
+  "name": "StudySphere-client",
+  "description": "This is the client side of the StudySphere App",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -63,6 +63,10 @@
     "concurrently": "^8.0.1",
     "prettier": "^2.8.8",
     "prettier-plugin-tailwindcss": "^0.3.0",
-    "tailwindcss": "^3.2.7"
+    "tailwindcss": "^3.2.7",
+    "typescript": "^5.1.6"
+  },
+  "resolutions": {
+    "typescript": "^5.1.6"
   }
 }
