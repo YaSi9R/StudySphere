@@ -51,7 +51,7 @@ Open your browser and go to http://localhost:3000 to start exploring StudySphere
 We welcome contributions from the community! If you’d like to help improve StudySphere, please check out our contributing guidelines and submit issues or pull requests.
 
 <h2>🌐 Live Demo</h2>
-Curious about StudySphere? Check out our live demo here to see our platform in action.
+Curious about StudySphere? Check out our live demo here to see our platform in action. ("https://studysphere-jade.vercel.app/")
 
 <h2>📄 Documentation</h2>
 For detailed information, visit our documentation or contact us at info@StudySphere.com.
