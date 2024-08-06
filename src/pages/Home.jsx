@@ -126,7 +126,7 @@ function Home() {
           />
         </div>
 
-        {/* CourseSlider */}
+        {/* Course_Slider */}
               <Course_Slider/>
 
         {/* Explore Section */}
