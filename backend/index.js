@@ -24,7 +24,8 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
     cors({
-        origin: "https://studysphere-jade.vercel.app/",
+        origin: "http://localhost:3000",
+        
         credentials: true,
     })
 );
@@ -66,3 +67,7 @@ app.listen(PORT, () => {
     console.log("Server connected successfully and is ready to handle requests.");
 
 });
+
+
+
+
